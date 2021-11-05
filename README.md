@@ -15,7 +15,7 @@ Step 2: Find & Run this program
 Step 3: Wait till Software loads
 
 Step 4: Type or Paste the code that you want to send or type
-
+ 
 Step 5: Enter Delay Time ( After how many second you want to type the text automatically) in seconds
 
 Step 6: Go to the Text Area where you want the text to appear Automatically
