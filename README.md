@@ -12,7 +12,7 @@ Step 1: Download <a href="https://github.com/shu6h4m/AutoTexter/raw/main/AutoTex
 
 Step 2: Find & Run this program 
 
-Step 3: Wait till Software loads
+Step 3: Wait till Software loads 
 
 Step 4: Type or Paste the code that you want to send or type
  
