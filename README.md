@@ -5,7 +5,7 @@ Let the Computer Type the text itself  :sunglasses:
 
 How to Use : 
 =============
-
+ 
 
 
 Step 1: Download <a href="https://github.com/shu6h4m/AutoTexter/raw/main/AutoTexter.exe"> AutoTexter </a>
@@ -31,7 +31,7 @@ Installing Tutorial or Working Demo :
 
 https://user-images.githubusercontent.com/37971771/119216203-f2e55d00-baef-11eb-993a-5332acf38a98.mp4
 
-<hr>
+<hr> 
 
       !! Changes or Contributions or Modifications to the Code are Invited !!
                               
