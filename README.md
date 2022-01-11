@@ -4,13 +4,13 @@ Let the Computer Type the text itself  :sunglasses:
 <br> 
 
 How to Use : 
-=============
+=============  
  
 
 
 Step 1: Download <a href="https://github.com/shu6h4m/AutoTexter/raw/main/AutoTexter.exe"> AutoTexter </a>
 
-Step 2: Find & Run this program 
+Step 2: Find & Run this program.
 
 Step 3: Wait till Software loads  
 
