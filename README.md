@@ -1,5 +1,5 @@
 # AutoTexter   
-Let the Computer Type the text itself  :sunglasses: 
+Let the Computer Type the text itself  :sunglasses:  
   
 <br> 
  
