@@ -3,7 +3,7 @@ Let the Computer Type the text itself  :sunglasses:
   
 <br> 
  
-How to Use : 
+How to Use :
 =============   
  
 
