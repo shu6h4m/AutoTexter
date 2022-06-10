@@ -1,7 +1,7 @@
 # AutoTexter   
 Let the Computer Type the text itself  :sunglasses:  
   
-<br> 
+<br>
  
 How to Use :
 =============   
